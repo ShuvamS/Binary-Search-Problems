@@ -1,7 +1,8 @@
-# Binary-Search-Problems
+# Binary-Search-Problems 
 solved questions on binary search
 <br>
-// //binary search
+// //binary search 
+int main
 // #include <bits/stdc++.h>
 // using namespace std;
 // int binarysearch(int arr[] ,int n,int target){
